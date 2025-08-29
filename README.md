@@ -10,7 +10,7 @@ Senior commercial and post-sales leader with 10+ years in digital commerce and p
 - Tools: Salesforce, Gainsight (familiar), Looker, MicroStrategy, Qlik Sense
 
 **Quick Links**
-- 📄 **Resume (PDF):** [Download](./Bedia_Sanem_Simsek_Resume.pdf)
+- 📄 **Resume (PDF):** [Download](./Bedia Sanem Simsek_Resume_Aug 2025_Vivenu.docx.pdf)
 - 📘 **CSM Playbook (lite):** [Read](./csm-playbook.md)
 - 🧩 **Case Study – Marketplace Expansion:** [Read](./case-study-marketplace-expansion.md)
 - ✉️ **Contact:** sanemsimsek@gmail.com • +49 (170) 275-1381 • Berlin, Germany
