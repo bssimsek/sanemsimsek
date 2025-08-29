@@ -1,4 +1,4 @@
- Bedia Sanem Simsek — VP / Head of Customer Success & Post-Sales (EMEA)
+Bedia Sanem Simsek — VP / Head of Customer Success & Post-Sales (EMEA)
 
 Senior commercial and post-sales leader with 10+ years in digital commerce and platforms. I build high-performing Customer Success and Account Management organizations, align Sales–CS–Ops around clear operating rhythms, and use data to drive retention, expansion, and profitability.
 
@@ -10,7 +10,7 @@ Senior commercial and post-sales leader with 10+ years in digital commerce and p
 - Tools: Salesforce, Gainsight (familiar), Looker, MicroStrategy, Qlik Sense
 
 **Quick Links**
-- 📄 **Resume (PDF):** [Download](./Bedia Sanem Simsek_Resume_Aug 2025_Vivenu.docx.pdf)
+- 📄 **Resume (PDF):** [Download](./Bedia%20Sanem%20Simsek_Resume_Aug%202025_Vivenu.docx.pdf)
 - 📘 **CSM Playbook (lite):** [Read](./csm-playbook.md)
 - 🧩 **Case Study – Marketplace Expansion:** [Read](./case-study-marketplace-expansion.md)
 - ✉️ **Contact:** sanemsimsek@gmail.com • +49 (170) 275-1381 • Berlin, Germany
